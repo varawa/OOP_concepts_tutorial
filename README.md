@@ -1,3 +1,3 @@
-# OOP_concepts_tutorial
-- An object oriented programming tutorial -> virtual functions, encapsulation, polymorphism, constructors etc .
+# OOP_concepts
+- Object oriented programming concepts -> virtual functions, encapsulation, polymorphism, constructors etc .
 - Vartika Rawat .
